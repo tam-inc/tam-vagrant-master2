@@ -10,3 +10,15 @@ http://qiita.com/tam-midori/private/aa0a4520dc9af5fdffad
 
 http://qiita.com/tam-midori/private/925b66b60ee5265c317f
 
+‰º‹L‚ÌŠÂ‹«‚ğ\’z‚·‚é
+
+PHP Version 5.5.28
+
+mysql5.5
+
+git
+
+comporser
+
+mod_ssl
+
